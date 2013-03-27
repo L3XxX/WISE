@@ -1,0 +1,42 @@
+% layout 'default';
+% title 'Welcome to WISE';
+
+%= include 'partials/activities_head'
+
+    <div class="container">
+      <div class="page-header">
+        <h1>Your findings <small>Create 'em, manage 'em, flush 'em.</small></h1>
+      </div>
+      <div class="row">
+        <div class="span10">
+          <br /><h2>Manage your findings in the following table.</h2>
+        </div>
+
+        <table class="table table-stripped table-hover table-bordered table-striped">
+          <thead>
+            <tr>
+              <th>Colonne 1</th>
+              <th>Colonne 2</th>
+              <th>Colonne 3</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>foo</td>
+              <td>bar</td>
+              <td>baz</td>
+            </tr>
+
+            <tr>
+              <td>John</td>
+              <td>Jane</td>
+              <td>Joe</td>
+            </tr>
+          </tbody>
+
+        </table>
+
+      </div>
+
+
+    </div> <!-- /container -->

@@ -1,0 +1,25 @@
+% layout 'default';
+% title 'Welcome to WISE';
+
+%= include 'partials/activities_head'
+
+    <div class="container">
+      <div class="page-header">
+        <h1>Activities <small>More than you need.</small></h1>
+      </div>
+      <div class="row">
+        <div class="span10">
+          <h2>You may chose between several activities.</h2>
+        </div>
+
+        <div class="span5">
+          <div class="well well-large">
+            <h2>Findings.</h2>
+            <p>You can view/edit your findings <a href="/findings">here</a> <i class="icon-ok-circle"></i></p>
+          </div>
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->

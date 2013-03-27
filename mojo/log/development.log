@@ -1,0 +1,1186 @@
+[Wed Mar 27 01:55:51 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 01:55:59 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:55:59 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:55:59 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 01:55:59 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 01:55:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 01:55:59 2013] [debug] 200 OK (0.010796s, 92.627/s).
+[Wed Mar 27 01:56:01 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:56:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 01:56:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 01:56:01 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:56:01 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:56:01 2013] [debug] 404 Not Found (0.016643s, 60.085/s).
+[Wed Mar 27 01:57:12 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 01:57:14 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:57:14 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 01:57:14 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 01:57:14 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:57:14 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:57:14 2013] [debug] 404 Not Found (0.016139s, 61.962/s).
+[Wed Mar 27 01:57:17 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:57:17 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:57:17 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 01:57:17 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 01:57:17 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 01:57:17 2013] [debug] 200 OK (0.015038s, 66.498/s).
+[Wed Mar 27 01:57:21 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:57:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:57:21 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 01:57:21 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 01:57:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 01:57:21 2013] [debug] 200 OK (0.003223s, 310.270/s).
+[Wed Mar 27 01:57:27 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:57:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 01:57:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 01:57:27 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 01:57:27 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 01:57:27 2013] [debug] 404 Not Found (0.004769s, 209.688/s).
+[Wed Mar 27 01:57:57 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 01:57:59 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:58:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 01:58:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 01:58:00 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:58:00 2013] [debug] Rendering inline template.
+[Wed Mar 27 01:58:00 2013] [debug] 404 Not Found (0.023273s, 42.968/s).
+[Wed Mar 27 01:58:03 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:58:03 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:58:03 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 01:58:03 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 01:58:03 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 01:58:03 2013] [debug] 200 OK (0.008797s, 113.675/s).
+[Wed Mar 27 01:59:17 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 01:59:19 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:59:19 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:59:19 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 01:59:19 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 01:59:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 01:59:19 2013] [debug] 200 OK (0.010568s, 94.625/s).
+[Wed Mar 27 01:59:21 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 01:59:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 01:59:21 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 01:59:21 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 01:59:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 01:59:21 2013] [debug] 200 OK (0.014228s, 70.284/s).
+[Wed Mar 27 02:00:10 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:00:12 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:00:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:00:12 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:00:12 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:00:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:00:12 2013] [debug] 200 OK (0.016213s, 61.679/s).
+[Wed Mar 27 02:06:07 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:06:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:06:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:06:12 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 02:06:12 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 02:06:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:06:12 2013] [debug] 200 OK (0.011778s, 84.904/s).
+[Wed Mar 27 02:06:16 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:06:16 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:06:16 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:06:16 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:06:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:06:16 2013] [debug] 200 OK (0.006972s, 143.431/s).
+[Wed Mar 27 02:09:01 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:09:04 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:09:04 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:09:04 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:09:04 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:09:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:09:04 2013] [debug] 200 OK (0.018434s, 54.248/s).
+[Wed Mar 27 02:10:41 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:10:43 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:10:43 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:10:43 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:10:43 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:10:43 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:10:43 2013] [debug] 200 OK (0.011188s, 89.381/s).
+[Wed Mar 27 02:11:06 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:11:08 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:11:08 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:11:08 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:11:08 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:11:08 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:11:08 2013] [debug] 200 OK (0.011486s, 87.063/s).
+[Wed Mar 27 02:14:06 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:14:09 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:14:09 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:14:09 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 02:14:09 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 02:14:09 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:14:09 2013] [debug] 200 OK (0.017413s, 57.428/s).
+[Wed Mar 27 02:14:11 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:14:11 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:14:11 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:14:11 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:14:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:14:11 2013] [debug] 200 OK (0.006954s, 143.802/s).
+[Wed Mar 27 02:14:13 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:14:13 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:14:13 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 02:14:13 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 02:14:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:14:13 2013] [debug] 200 OK (0.001480s, 675.676/s).
+[Wed Mar 27 02:15:05 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:15:07 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:15:07 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:15:07 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 02:15:07 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 02:15:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:15:07 2013] [debug] 200 OK (0.019289s, 51.843/s).
+[Wed Mar 27 02:15:09 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:15:09 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:15:09 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:15:09 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:15:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:15:09 2013] [debug] 200 OK (0.006029s, 165.865/s).
+[Wed Mar 27 02:17:14 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:14 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:14 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 02:17:14 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 02:17:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:17:14 2013] [debug] 200 OK (0.001443s, 693.001/s).
+[Wed Mar 27 02:17:15 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:15 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:15 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 02:17:15 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 02:17:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:17:15 2013] [debug] 200 OK (0.001506s, 664.011/s).
+[Wed Mar 27 02:17:16 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:16 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:16 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 02:17:16 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 02:17:16 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:17:16 2013] [debug] 200 OK (0.001584s, 631.313/s).
+[Wed Mar 27 02:17:19 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:19 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:19 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 02:17:19 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 02:17:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:17:19 2013] [debug] 200 OK (0.001560s, 641.026/s).
+[Wed Mar 27 02:17:21 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:21 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 02:17:21 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 02:17:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:17:21 2013] [debug] 200 OK (0.003169s, 315.557/s).
+[Wed Mar 27 02:17:33 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:17:35 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:17:35 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:17:35 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:17:35 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:17:35 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:17:35 2013] [debug] 200 OK (0.010074s, 99.265/s).
+[Wed Mar 27 02:18:29 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 02:18:32 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:18:32 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:18:32 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 02:18:32 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 02:18:32 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 02:18:32 2013] [debug] 200 OK (0.010569s, 94.616/s).
+[Wed Mar 27 02:18:58 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:18:58 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:18:58 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 02:18:58 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 02:18:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:18:58 2013] [debug] 200 OK (0.005840s, 171.233/s).
+[Wed Mar 27 02:19:01 2013] [debug] GET /tool_1 (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:19:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 02:19:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 02:19:01 2013] [debug] Rendering inline template.
+[Wed Mar 27 02:19:01 2013] [debug] Rendering inline template.
+[Wed Mar 27 02:19:01 2013] [debug] 404 Not Found (0.017632s, 56.715/s).
+[Wed Mar 27 02:19:04 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 02:19:04 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 02:19:04 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 02:19:04 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 02:19:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 02:19:04 2013] [debug] 200 OK (0.001657s, 603.500/s).
+[Wed Mar 27 03:41:08 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 03:41:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:41:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:41:12 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 03:41:12 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 03:41:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 03:41:12 2013] [debug] 200 OK (0.011896s, 84.062/s).
+[Wed Mar 27 03:41:17 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:41:17 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:41:17 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 03:41:17 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 03:41:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:41:17 2013] [debug] 200 OK (0.006072s, 164.690/s).
+[Wed Mar 27 03:41:19 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:41:19 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 03:41:19 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 03:41:19 2013] [debug] Rendering inline template.
+[Wed Mar 27 03:41:19 2013] [debug] Rendering inline template.
+[Wed Mar 27 03:41:19 2013] [debug] 404 Not Found (0.022876s, 43.714/s).
+[Wed Mar 27 03:42:21 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 03:42:23 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:42:23 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:42:23 2013] [debug] Rendering template "static/findings.html.ep".
+[Wed Mar 27 03:42:23 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 03:42:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 03:42:23 2013] [debug] 200 OK (0.012096s, 82.672/s).
+[Wed Mar 27 03:45:30 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 03:45:33 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:45:33 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:45:33 2013] [debug] Rendering template "static/findings.html.ep".
+[Wed Mar 27 03:45:33 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 03:45:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 03:45:33 2013] [debug] 200 OK (0.011980s, 83.472/s).
+[Wed Mar 27 03:45:55 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 03:46:00 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:46:00 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:46:00 2013] [debug] Rendering template "static/findings.html.ep".
+[Wed Mar 27 03:46:00 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 03:46:00 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 03:46:00 2013] [debug] 200 OK (0.011963s, 83.591/s).
+[Wed Mar 27 03:55:12 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:55:12 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 03:55:12 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 03:55:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:55:12 2013] [debug] 200 OK (0.007090s, 141.044/s).
+[Wed Mar 27 03:55:15 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:15 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:55:15 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 03:55:15 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 03:55:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:55:15 2013] [debug] 200 OK (0.003983s, 251.067/s).
+[Wed Mar 27 03:55:17 2013] [debug] GET /tool_1 (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 03:55:17 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 03:55:17 2013] [debug] Rendering inline template.
+[Wed Mar 27 03:55:17 2013] [debug] Rendering inline template.
+[Wed Mar 27 03:55:17 2013] [debug] 404 Not Found (0.016780s, 59.595/s).
+[Wed Mar 27 03:55:23 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:23 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:55:23 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 03:55:23 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 03:55:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:55:23 2013] [debug] 200 OK (0.001697s, 589.275/s).
+[Wed Mar 27 03:55:24 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:24 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:55:24 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 03:55:24 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 03:55:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:55:24 2013] [debug] 200 OK (0.001466s, 682.128/s).
+[Wed Mar 27 03:55:54 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 03:55:54 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 03:55:54 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 03:55:54 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 03:55:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 03:55:54 2013] [debug] 200 OK (0.002589s, 386.250/s).
+[Wed Mar 27 15:00:25 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:00:25 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:00:25 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:00:25 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:00:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:00:25 2013] [debug] 200 OK (0.001722s, 580.720/s).
+[Wed Mar 27 15:09:23 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 15:09:25 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:09:25 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:09:25 2013] [debug] Rendering template "static/home.html.ep".
+[Wed Mar 27 15:09:25 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Wed Mar 27 15:09:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 15:09:25 2013] [debug] 200 OK (0.010840s, 92.251/s).
+[Wed Mar 27 15:09:27 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:09:27 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:09:27 2013] [debug] Rendering template "static/findings.html.ep".
+[Wed Mar 27 15:09:27 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 15:09:27 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:09:27 2013] [debug] 200 OK (0.006973s, 143.410/s).
+[Wed Mar 27 15:20:51 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:20:51 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:20:51 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:20:51 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:20:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:20:51 2013] [debug] 200 OK (0.001947s, 513.611/s).
+[Wed Mar 27 15:20:58 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:20:58 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:20:58 2013] [debug] Rendering template "static/activities.html.ep".
+[Wed Mar 27 15:20:58 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:20:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:20:58 2013] [debug] 200 OK (0.006278s, 159.286/s).
+[Wed Mar 27 15:21:11 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:21:11 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:21:11 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:21:11 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:21:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:21:11 2013] [debug] 200 OK (0.001587s, 630.120/s).
+[Wed Mar 27 15:43:23 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:43:23 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:43:23 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:43:23 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:43:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:43:23 2013] [debug] 200 OK (0.001388s, 720.461/s).
+[Wed Mar 27 15:43:47 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:43:47 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:43:47 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:43:47 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:43:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:43:47 2013] [debug] 200 OK (0.001486s, 672.948/s).
+[Wed Mar 27 15:43:57 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:43:57 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:43:57 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:43:57 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:43:57 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:43:57 2013] [debug] 200 OK (0.001704s, 586.854/s).
+[Wed Mar 27 15:43:58 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:43:58 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:43:58 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:43:58 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:43:58 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:43:58 2013] [debug] 200 OK (0.001526s, 655.308/s).
+[Wed Mar 27 15:44:00 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:44:00 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:44:00 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:44:00 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:44:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:44:00 2013] [debug] 200 OK (0.001462s, 683.995/s).
+[Wed Mar 27 15:49:22 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:22 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:22 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:22 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:22 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:22 2013] [debug] 200 OK (0.002767s, 361.402/s).
+[Wed Mar 27 15:49:24 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:24 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:24 2013] [debug] Rendering inline template.
+[Wed Mar 27 15:49:24 2013] [debug] Rendering inline template.
+[Wed Mar 27 15:49:24 2013] [debug] 404 Not Found (0.016069s, 62.232/s).
+[Wed Mar 27 15:49:28 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:28 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:28 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:49:28 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:28 2013] [debug] 200 OK (0.001739s, 575.043/s).
+[Wed Mar 27 15:49:28 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:28 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:28 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:28 2013] [debug] 404 Not Found (0.004892s, 204.415/s).
+[Wed Mar 27 15:49:31 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:31 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:31 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:31 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:31 2013] [debug] 200 OK (0.001783s, 560.852/s).
+[Wed Mar 27 15:49:31 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:31 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:31 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:31 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:31 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:31 2013] [debug] 404 Not Found (0.005845s, 171.086/s).
+[Wed Mar 27 15:49:32 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:32 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:32 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:32 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:32 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:32 2013] [debug] 200 OK (0.010491s, 95.320/s).
+[Wed Mar 27 15:49:32 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:32 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:32 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:32 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:32 2013] [debug] 404 Not Found (0.005446s, 183.621/s).
+[Wed Mar 27 15:49:39 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:39 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:39 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:49:39 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:39 2013] [debug] 200 OK (0.001655s, 604.230/s).
+[Wed Mar 27 15:49:39 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:39 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:39 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:39 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:39 2013] [debug] 404 Not Found (0.005777s, 173.100/s).
+[Wed Mar 27 15:49:42 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:42 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:42 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:49:42 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:42 2013] [debug] 200 OK (0.001629s, 613.874/s).
+[Wed Mar 27 15:49:42 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:42 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:42 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:42 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:42 2013] [debug] 404 Not Found (0.005742s, 174.155/s).
+[Wed Mar 27 15:49:47 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:47 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:47 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:47 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:47 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:47 2013] [debug] 200 OK (0.003488s, 286.697/s).
+[Wed Mar 27 15:49:47 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:47 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:47 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:47 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:47 2013] [debug] 404 Not Found (0.011148s, 89.702/s).
+[Wed Mar 27 15:49:48 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:48 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] 200 OK (0.003216s, 310.945/s).
+[Wed Mar 27 15:49:48 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:48 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:48 2013] [debug] 404 Not Found (0.009842s, 101.605/s).
+[Wed Mar 27 15:49:48 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:49:48 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:48 2013] [debug] 200 OK (0.001455s, 687.285/s).
+[Wed Mar 27 15:49:49 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:49:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:49 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:49 2013] [debug] 404 Not Found (0.010972s, 91.141/s).
+[Wed Mar 27 15:49:49 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:49 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:49 2013] [debug] 200 OK (0.002196s, 455.373/s).
+[Wed Mar 27 15:49:49 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:49 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:49 2013] [debug] 404 Not Found (0.005689s, 175.778/s).
+[Wed Mar 27 15:49:50 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:50 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:50 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:49:50 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:50 2013] [debug] 200 OK (0.001674s, 597.372/s).
+[Wed Mar 27 15:49:51 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:51 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:51 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:51 2013] [debug] 404 Not Found (0.006117s, 163.479/s).
+[Wed Mar 27 15:49:53 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:49:53 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:53 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:49:53 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:53 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:53 2013] [debug] 200 OK (0.002862s, 349.406/s).
+[Wed Mar 27 15:49:55 2013] [debug] GET /test (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:49:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:49:55 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:49:55 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:55 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:49:55 2013] [debug] 404 Not Found (0.005792s, 172.652/s).
+[Wed Mar 27 15:49:59 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:49:59 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:49:59 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:49:59 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:49:59 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:49:59 2013] [debug] 200 OK (0.003252s, 307.503/s).
+[Wed Mar 27 15:50:03 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:03 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:03 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:03 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:03 2013] [debug] 404 Not Found (0.005543s, 180.408/s).
+[Wed Mar 27 15:50:04 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:04 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:04 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:50:04 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:50:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:04 2013] [debug] 200 OK (0.003070s, 325.733/s).
+[Wed Mar 27 15:50:04 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:04 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:04 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:04 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:04 2013] [debug] 404 Not Found (0.011510s, 86.881/s).
+[Wed Mar 27 15:50:08 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:08 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:08 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:50:08 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:50:08 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:08 2013] [debug] 200 OK (0.005724s, 174.703/s).
+[Wed Mar 27 15:50:08 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:08 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:08 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:08 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:08 2013] [debug] 404 Not Found (0.005523s, 181.061/s).
+[Wed Mar 27 15:50:11 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:11 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:11 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:50:11 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:50:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:11 2013] [debug] 200 OK (0.003201s, 312.402/s).
+[Wed Mar 27 15:50:11 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:11 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:11 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:11 2013] [debug] 404 Not Found (0.011385s, 87.835/s).
+[Wed Mar 27 15:50:12 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:12 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:50:12 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:50:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:12 2013] [debug] 200 OK (0.002879s, 347.343/s).
+[Wed Mar 27 15:50:12 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:12 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:12 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:12 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:12 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:12 2013] [debug] 404 Not Found (0.007803s, 128.156/s).
+[Wed Mar 27 15:50:14 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:14 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:14 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:50:14 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:50:14 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:14 2013] [debug] 200 OK (0.001651s, 605.694/s).
+[Wed Mar 27 15:50:14 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:14 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:14 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:14 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:14 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:14 2013] [debug] 404 Not Found (0.010985s, 91.033/s).
+[Wed Mar 27 15:50:37 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:37 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:37 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:50:37 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:50:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:37 2013] [debug] 200 OK (0.002527s, 395.726/s).
+[Wed Mar 27 15:50:37 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:37 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:37 2013] [debug] 404 Not Found (0.006155s, 162.470/s).
+[Wed Mar 27 15:50:39 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:39 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:50:39 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:50:39 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:50:39 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:50:39 2013] [debug] 200 OK (0.004543s, 220.119/s).
+[Wed Mar 27 15:50:39 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:50:39 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:50:39 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:50:39 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:39 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:50:39 2013] [debug] 404 Not Found (0.006165s, 162.206/s).
+[Wed Mar 27 15:51:15 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:15 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:51:15 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:51:15 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:51:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:51:15 2013] [debug] 200 OK (0.001762s, 567.537/s).
+[Wed Mar 27 15:51:15 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:51:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:51:15 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:15 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:15 2013] [debug] 404 Not Found (0.014293s, 69.964/s).
+[Wed Mar 27 15:51:18 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:18 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:51:18 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:51:18 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:51:18 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:51:18 2013] [debug] 200 OK (0.001644s, 608.273/s).
+[Wed Mar 27 15:51:18 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:18 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:51:18 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:51:18 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:18 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:18 2013] [debug] 404 Not Found (0.012235s, 81.733/s).
+[Wed Mar 27 15:51:24 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:24 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:51:24 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:51:24 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:51:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:51:24 2013] [debug] 200 OK (0.003116s, 320.924/s).
+[Wed Mar 27 15:51:24 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:51:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:51:24 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:51:24 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:24 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:51:24 2013] [debug] 404 Not Found (0.010856s, 92.115/s).
+[Wed Mar 27 15:52:10 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:52:10 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:52:10 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:52:10 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:52:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:52:10 2013] [debug] 200 OK (0.002846s, 351.370/s).
+[Wed Mar 27 15:52:10 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:52:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:52:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:52:10 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:52:10 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:52:10 2013] [debug] 404 Not Found (0.011557s, 86.528/s).
+[Wed Mar 27 15:55:05 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:05 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:55:05 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:55:05 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:55:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:55:05 2013] [debug] 200 OK (0.002978s, 335.796/s).
+[Wed Mar 27 15:55:07 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:07 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:55:07 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:55:07 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:07 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:07 2013] [debug] 404 Not Found (0.011597s, 86.229/s).
+[Wed Mar 27 15:55:09 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:09 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:55:09 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:55:09 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:55:09 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:55:09 2013] [debug] 200 OK (0.003124s, 320.102/s).
+[Wed Mar 27 15:55:09 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:55:09 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:55:09 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:09 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:09 2013] [debug] 404 Not Found (0.010527s, 94.994/s).
+[Wed Mar 27 15:55:11 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:11 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:55:11 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:55:11 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:55:11 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:55:11 2013] [debug] 200 OK (0.002881s, 347.102/s).
+[Wed Mar 27 15:55:11 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:55:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:55:11 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:11 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:11 2013] [debug] 404 Not Found (0.007902s, 126.550/s).
+[Wed Mar 27 15:55:12 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:12 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:55:12 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:55:12 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:55:12 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:55:12 2013] [debug] 200 OK (0.003153s, 317.158/s).
+[Wed Mar 27 15:55:12 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:55:12 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:55:12 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:55:12 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:12 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:55:12 2013] [debug] 404 Not Found (0.009229s, 108.354/s).
+[Wed Mar 27 15:56:46 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:46 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:56:46 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:56:46 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:56:46 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:56:46 2013] [debug] 200 OK (0.002944s, 339.674/s).
+[Wed Mar 27 15:56:46 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:56:46 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:56:46 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:46 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:46 2013] [debug] 404 Not Found (0.007454s, 134.156/s).
+[Wed Mar 27 15:56:48 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:48 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:56:48 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 15:56:48 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:56:48 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:56:48 2013] [debug] 200 OK (0.003226s, 309.981/s).
+[Wed Mar 27 15:56:48 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:56:48 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:56:48 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:48 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:48 2013] [debug] 404 Not Found (0.006773s, 147.645/s).
+[Wed Mar 27 15:56:49 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:49 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:56:49 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:56:49 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:56:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:56:49 2013] [debug] 200 OK (0.002896s, 345.304/s).
+[Wed Mar 27 15:56:49 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:56:49 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:56:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:49 2013] [debug] 404 Not Found (0.011187s, 89.389/s).
+[Wed Mar 27 15:56:50 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:50 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:56:50 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:56:50 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:56:50 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:56:50 2013] [debug] 200 OK (0.003138s, 318.674/s).
+[Wed Mar 27 15:56:50 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:56:50 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:56:50 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:50 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:56:50 2013] [debug] 404 Not Found (0.011283s, 88.629/s).
+[Wed Mar 27 15:56:55 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 15:56:55 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:56:55 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:56:55 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:56:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:56:55 2013] [debug] 200 OK (0.003216s, 310.945/s).
+[Wed Mar 27 15:58:26 2013] [debug] GET /home (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:58:26 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:58:26 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:58:26 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:58:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:58:26 2013] [debug] 200 OK (0.003000s, 333.333/s).
+[Wed Mar 27 15:58:38 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:58:38 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:58:38 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 15:58:38 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 15:58:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:58:38 2013] [debug] 200 OK (0.003191s, 313.381/s).
+[Wed Mar 27 15:58:43 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:58:43 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:58:43 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 15:58:43 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 15:58:43 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 15:58:43 2013] [debug] 200 OK (0.002641s, 378.644/s).
+[Wed Mar 27 15:58:45 2013] [debug] GET /activities%22 (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:58:45 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 15:58:45 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:58:45 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:58:45 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 15:58:45 2013] [debug] 404 Not Found (0.005284s, 189.251/s).
+[Wed Mar 27 15:59:10 2013] [debug] GET /.htaccess (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 15:59:10 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 15:59:10 2013] [debug] Template "static/home.htaccess.ep" not found.
+[Wed Mar 27 15:59:10 2013] [debug] Template "not_found.development.htaccess.ep" not found.
+[Wed Mar 27 15:59:10 2013] [debug] Template "not_found.htaccess.ep" not found.
+[Wed Mar 27 15:59:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:59:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 15:59:10 2013] [debug] Rendering inline template.
+[Wed Mar 27 15:59:10 2013] [debug] Rendering inline template.
+[Wed Mar 27 15:59:10 2013] [debug] 404 Not Found (0.021556s, 46.391/s).
+[Wed Mar 27 16:01:36 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:36 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:01:36 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:01:36 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:01:36 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:01:36 2013] [debug] 200 OK (0.002935s, 340.716/s).
+[Wed Mar 27 16:01:36 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:01:36 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:01:36 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:36 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:36 2013] [debug] 404 Not Found (0.011475s, 87.146/s).
+[Wed Mar 27 16:01:37 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:37 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:01:37 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:01:37 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:01:37 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:01:37 2013] [debug] 200 OK (0.002901s, 344.709/s).
+[Wed Mar 27 16:01:37 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:01:37 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:01:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:37 2013] [debug] 404 Not Found (0.011335s, 88.222/s).
+[Wed Mar 27 16:01:38 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:38 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:01:38 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:01:38 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:01:38 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:01:38 2013] [debug] 200 OK (0.002727s, 366.703/s).
+[Wed Mar 27 16:01:38 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:01:38 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:01:38 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:38 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:38 2013] [debug] 404 Not Found (0.010840s, 92.251/s).
+[Wed Mar 27 16:01:42 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:42 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:01:42 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 16:01:42 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:01:42 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:01:42 2013] [debug] 200 OK (0.002843s, 351.741/s).
+[Wed Mar 27 16:01:42 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:42 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:01:42 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:01:42 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:42 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:42 2013] [debug] 404 Not Found (0.011070s, 90.334/s).
+[Wed Mar 27 16:01:44 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:44 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:01:44 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:01:44 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:01:44 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:01:44 2013] [debug] 200 OK (0.004839s, 206.654/s).
+[Wed Mar 27 16:01:44 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:01:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:01:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:01:44 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:44 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:01:44 2013] [debug] 404 Not Found (0.007751s, 129.016/s).
+[Wed Mar 27 16:04:24 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:24 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:04:24 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:04:24 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:04:24 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:04:24 2013] [debug] 200 OK (0.003261s, 306.654/s).
+[Wed Mar 27 16:04:37 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:04:37 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:04:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:37 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:37 2013] [debug] 404 Not Found (0.011555s, 86.543/s).
+[Wed Mar 27 16:04:40 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:40 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:04:40 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:04:40 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:40 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:40 2013] [debug] 404 Not Found (0.011023s, 90.719/s).
+[Wed Mar 27 16:04:45 2013] [debug] GET /txt (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:45 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:04:45 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:04:45 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:45 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:45 2013] [debug] 404 Not Found (0.011315s, 88.378/s).
+[Wed Mar 27 16:04:49 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:49 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:04:49 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:04:49 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:04:49 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:04:49 2013] [debug] 200 OK (0.003408s, 293.427/s).
+[Wed Mar 27 16:04:49 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:04:49 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:04:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:49 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:49 2013] [debug] 404 Not Found (0.010042s, 99.582/s).
+[Wed Mar 27 16:04:54 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:54 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:04:54 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 16:04:54 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:04:54 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:04:54 2013] [debug] 200 OK (0.006859s, 145.794/s).
+[Wed Mar 27 16:04:55 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:04:55 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:04:55 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:04:55 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:55 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:04:55 2013] [debug] 404 Not Found (0.004480s, 223.214/s).
+[Wed Mar 27 16:05:02 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:02 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:02 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:02 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:02 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:02 2013] [debug] 404 Not Found (0.011145s, 89.726/s).
+[Wed Mar 27 16:05:06 2013] [debug] GET /css/ (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:06 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:06 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:06 2013] [debug] 404 Not Found (0.011561s, 86.498/s).
+[Wed Mar 27 16:05:08 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:08 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:08 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:08 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:08 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:08 2013] [debug] 404 Not Found (0.011224s, 89.095/s).
+[Wed Mar 27 16:05:21 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:05:21 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 16:05:21 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:05:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:05:21 2013] [debug] 200 OK (0.014232s, 70.264/s).
+[Wed Mar 27 16:05:21 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:21 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:21 2013] [debug] 404 Not Found (0.011804s, 84.717/s).
+[Wed Mar 27 16:05:23 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:23 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:05:23 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:05:23 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:05:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:05:23 2013] [debug] 200 OK (0.003176s, 314.861/s).
+[Wed Mar 27 16:05:23 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:23 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:23 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:23 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:23 2013] [debug] 404 Not Found (0.006955s, 143.781/s).
+[Wed Mar 27 16:05:25 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:25 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] 200 OK (0.003346s, 298.864/s).
+[Wed Mar 27 16:05:25 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:25 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:25 2013] [debug] 404 Not Found (0.011798s, 84.760/s).
+[Wed Mar 27 16:05:25 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:25 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:05:25 2013] [debug] 200 OK (0.002806s, 356.379/s).
+[Wed Mar 27 16:05:25 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:05:25 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:25 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:05:25 2013] [debug] 404 Not Found (0.011271s, 88.723/s).
+[Wed Mar 27 16:05:26 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:05:26 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:05:26 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:05:26 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:05:26 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:05:26 2013] [debug] 200 OK (0.002920s, 342.466/s).
+[Wed Mar 27 16:10:06 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:06 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:10:06 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:10:06 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:10:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:10:06 2013] [debug] 200 OK (0.003584s, 279.018/s).
+[Wed Mar 27 16:10:06 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:06 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:10:06 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:10:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:06 2013] [debug] 404 Not Found (0.011331s, 88.253/s).
+[Wed Mar 27 16:10:15 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:15 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:10:15 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:10:15 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:10:15 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:10:15 2013] [debug] 200 OK (0.003398s, 294.291/s).
+[Wed Mar 27 16:10:15 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:10:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:10:15 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:15 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:15 2013] [debug] 404 Not Found (0.008510s, 117.509/s).
+[Wed Mar 27 16:10:31 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:31 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:10:31 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:10:31 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:10:31 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:10:31 2013] [debug] 200 OK (0.002337s, 427.899/s).
+[Wed Mar 27 16:10:31 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:10:31 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:10:31 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:10:31 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:31 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:10:31 2013] [debug] 404 Not Found (0.011389s, 87.804/s).
+[Wed Mar 27 16:17:19 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:19 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:17:19 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:17:19 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:17:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:17:19 2013] [debug] 200 OK (0.002932s, 341.064/s).
+[Wed Mar 27 16:17:19 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:19 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:17:19 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:17:19 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:19 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:19 2013] [debug] 404 Not Found (0.011294s, 88.543/s).
+[Wed Mar 27 16:17:20 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:20 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:17:20 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:17:20 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:17:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:17:20 2013] [debug] 200 OK (0.002860s, 349.650/s).
+[Wed Mar 27 16:17:21 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:17:21 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:21 2013] [debug] 404 Not Found (0.011016s, 90.777/s).
+[Wed Mar 27 16:17:21 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:17:21 2013] [debug] 200 OK (0.003461s, 288.934/s).
+[Wed Mar 27 16:17:21 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:17:21 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:21 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:21 2013] [debug] 404 Not Found (0.011175s, 89.485/s).
+[Wed Mar 27 16:17:22 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:22 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:17:22 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:17:22 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:17:22 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:17:22 2013] [debug] 200 OK (0.003177s, 314.762/s).
+[Wed Mar 27 16:17:22 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:17:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:17:22 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:17:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:17:22 2013] [debug] 404 Not Found (0.009303s, 107.492/s).
+[Wed Mar 27 16:37:17 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:17 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:37:17 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:37:17 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:37:17 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:37:17 2013] [debug] 200 OK (0.003208s, 311.721/s).
+[Wed Mar 27 16:37:17 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:17 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:37:17 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:37:17 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:17 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:17 2013] [debug] 404 Not Found (0.008913s, 112.196/s).
+[Wed Mar 27 16:37:19 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:19 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:37:19 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:37:19 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:37:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:37:19 2013] [debug] 200 OK (0.002903s, 344.471/s).
+[Wed Mar 27 16:37:19 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:19 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:37:19 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:37:19 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:19 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:19 2013] [debug] 404 Not Found (0.009786s, 102.187/s).
+[Wed Mar 27 16:37:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:20 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:37:20 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:37:20 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:37:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:37:20 2013] [debug] 200 OK (0.002917s, 342.818/s).
+[Wed Mar 27 16:37:20 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 16:37:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:37:20 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:37:20 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:20 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:37:20 2013] [debug] 404 Not Found (0.011412s, 87.627/s).
+[Wed Mar 27 16:59:21 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 16:59:21 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:59:21 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 16:59:21 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 16:59:21 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:59:21 2013] [debug] 200 OK (0.002908s, 343.879/s).
+[Wed Mar 27 16:59:22 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 16:59:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:59:22 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:59:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:59:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:59:22 2013] [debug] 404 Not Found (0.011085s, 90.212/s).
+[Wed Mar 27 16:59:22 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 16:59:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 16:59:22 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 16:59:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:59:22 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 16:59:22 2013] [debug] 404 Not Found (0.008387s, 119.232/s).
+[Wed Mar 27 16:59:29 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 16:59:29 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:59:29 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 16:59:29 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:59:29 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:59:29 2013] [debug] 200 OK (0.001519s, 658.328/s).
+[Wed Mar 27 16:59:40 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 16:59:40 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 16:59:40 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 16:59:40 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 16:59:40 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 16:59:40 2013] [debug] 200 OK (0.001553s, 643.915/s).
+[Wed Mar 27 17:01:23 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 17:01:23 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:01:23 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:01:23 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:01:23 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:01:23 2013] [debug] 200 OK (0.011908s, 83.977/s).
+[Wed Mar 27 17:03:28 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 17:03:28 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:03:28 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:03:28 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:03:28 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:03:28 2013] [debug] 200 OK (0.002001s, 499.750/s).
+[Wed Mar 27 17:03:30 2013] [debug] GET /home (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 17:03:30 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:03:30 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:03:30 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:03:30 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:03:30 2013] [debug] 200 OK (0.003147s, 317.763/s).
+[Wed Mar 27 17:03:35 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 17:03:35 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:03:35 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 17:03:35 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 17:03:35 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:03:35 2013] [debug] 200 OK (0.004141s, 241.488/s).
+[Wed Mar 27 17:04:00 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 17:04:00 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:04:00 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:04:00 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:04:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:04:00 2013] [debug] 200 OK (0.003162s, 316.256/s).
+[Wed Mar 27 17:11:00 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:00 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:11:00 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:11:00 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:11:00 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:11:00 2013] [debug] 200 OK (0.003235s, 309.119/s).
+[Wed Mar 27 17:11:01 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 17:11:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 17:11:01 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:01 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:01 2013] [debug] 404 Not Found (0.011077s, 90.277/s).
+[Wed Mar 27 17:11:04 2013] [debug] GET /findings (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:04 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:11:04 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 17:11:04 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 17:11:04 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:11:04 2013] [debug] 200 OK (0.002922s, 342.231/s).
+[Wed Mar 27 17:11:04 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 17:11:04 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 17:11:04 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:04 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:04 2013] [debug] 404 Not Found (0.009661s, 103.509/s).
+[Wed Mar 27 17:11:05 2013] [debug] GET /activities (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:05 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:11:05 2013] [debug] Rendering cached template static/activities.html.ep.
+[Wed Mar 27 17:11:05 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 17:11:05 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:11:05 2013] [debug] 200 OK (0.003069s, 325.839/s).
+[Wed Mar 27 17:11:05 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:05 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 17:11:05 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 17:11:05 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:05 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:05 2013] [debug] 404 Not Found (0.006480s, 154.321/s).
+[Wed Mar 27 17:11:06 2013] [debug] GET / (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:06 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 17:11:06 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 17:11:06 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 17:11:06 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 17:11:06 2013] [debug] 200 OK (0.002180s, 458.716/s).
+[Wed Mar 27 17:11:06 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.172 Safari/537.22).
+[Wed Mar 27 17:11:06 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Mar 27 17:11:06 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Mar 27 17:11:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:06 2013] [debug] Rendering cached inline template.
+[Wed Mar 27 17:11:06 2013] [debug] 404 Not Found (0.011499s, 86.964/s).
+[Wed Mar 27 19:39:10 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 19:39:10 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 19:39:10 2013] [debug] Rendering cached template static/home.html.ep.
+[Wed Mar 27 19:39:10 2013] [debug] Rendering cached template partials/home_head.html.ep.
+[Wed Mar 27 19:39:10 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 19:39:10 2013] [debug] 200 OK (0.002544s, 393.082/s).
+[Wed Mar 27 19:39:13 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 19:39:13 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 19:39:13 2013] [debug] Rendering cached template static/findings.html.ep.
+[Wed Mar 27 19:39:13 2013] [debug] Rendering cached template partials/activities_head.html.ep.
+[Wed Mar 27 19:39:13 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Wed Mar 27 19:39:13 2013] [debug] 200 OK (0.001603s, 623.830/s).
