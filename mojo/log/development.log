@@ -1184,3 +1184,10 @@
 [Wed Mar 27 19:39:13 2013] [debug] Rendering cached template partials/activities_head.html.ep.
 [Wed Mar 27 19:39:13 2013] [debug] Rendering cached template layouts/default.html.ep.
 [Wed Mar 27 19:39:13 2013] [debug] 200 OK (0.001603s, 623.830/s).
+[Wed Mar 27 20:23:21 2013] [info] Listening at "http://*:3000".
+[Wed Mar 27 20:23:25 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Mar 27 20:23:25 2013] [debug] Controller "WISE::Static" does not exist.
+[Wed Mar 27 20:23:25 2013] [debug] Rendering template "static/findings.html.ep".
+[Wed Mar 27 20:23:25 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Wed Mar 27 20:23:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Wed Mar 27 20:23:25 2013] [debug] 200 OK (0.011383s, 87.850/s).

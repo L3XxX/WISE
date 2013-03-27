@@ -14,7 +14,10 @@ sub activities {
 }
 
 sub findings {
-	shift->render();
+	my $self = shift;
+	# Here will be the party!
+
+	$self->render();
 }
 
 1;
