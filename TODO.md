@@ -10,5 +10,9 @@ Things being done
 
 
 
-Things to be added
+Things to be done
 -------------------
+* Less rigid Markdown syntax for findings;
+* Colored "Severity" field in findings.html.ep;
+
+* Make a better USAGE section, explaining how to install every component;

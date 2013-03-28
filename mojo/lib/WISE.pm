@@ -10,7 +10,7 @@ sub startup {
   # Documentation browser under "/perldoc"
   $self->plugin('PODRenderer');
   #$self->plugin('DefaultHelpers');
-  $self->secret('booh');
+  $self->secret('development');
 
   # Router
   my $r = $self->routes;

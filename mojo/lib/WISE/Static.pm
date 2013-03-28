@@ -1,5 +1,7 @@
-package WISE::static;
+package WISE::Static;
 use Mojo::Base 'Mojolicious::Controller';
+use WISE::Toolkit;
+use Data::Dumper;
 
 # This action will render a template
 sub home {
@@ -15,9 +17,11 @@ sub activities {
 
 sub findings {
 	my $self = shift;
-	# Here will be the party!
+	my $t = WISE::Toolkit->new;
+	$self->stash("tab" => $t->mddir2tab("../findings"));
 
 	$self->render();
 }
+
 
 1;

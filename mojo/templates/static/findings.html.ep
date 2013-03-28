@@ -27,11 +27,9 @@
               <td>baz</td>
             </tr>
 
-            <tr>
-              <td>John</td>
-              <td>Jane</td>
-              <td>Joe</td>
-            </tr>
+% for my $row (@$tab) {
+%==  $row
+% }
           </tbody>
 
         </table>
