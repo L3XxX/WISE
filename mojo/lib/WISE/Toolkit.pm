@@ -37,10 +37,5 @@ sub md2html {
     return $html;
 }
 
-sub test {
-	my $self = shift;
-
-	$self->render(text => $self->mddir2tab("../findings"));
-}
 
 1;

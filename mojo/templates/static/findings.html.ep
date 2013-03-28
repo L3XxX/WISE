@@ -15,9 +15,9 @@
         <table class="table table-stripped table-hover table-bordered table-striped">
           <thead>
             <tr>
-              <th>Colonne 1</th>
-              <th>Colonne 2</th>
-              <th>Colonne 3</th>
+              <th>Name</th>
+              <th>Severity</th>
+              <th>Description</th>
             </tr>
           </thead>
           <tbody>

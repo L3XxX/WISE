@@ -173,3 +173,54 @@ syntax error at template static/findings.html.ep line 40, near "} }"
 [Thu Mar 28 03:52:59 2013] [debug] Rendering cached template partials/activities_head.html.ep.
 [Thu Mar 28 03:52:59 2013] [debug] Rendering cached template layouts/default.html.ep.
 [Thu Mar 28 03:52:59 2013] [debug] 200 OK (0.005834s, 171.409/s).
+[Thu Mar 28 14:25:43 2013] [info] Listening at "http://*:3000".
+[Thu Mar 28 14:25:49 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 14:25:49 2013] [debug] Routing to controller "WISE::Static" and action "findings".
+[Thu Mar 28 14:25:49 2013] [debug] Rendering template "static/findings.html.ep".
+[Thu Mar 28 14:25:49 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Thu Mar 28 14:25:49 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 28 14:25:49 2013] [debug] 200 OK (0.038188s, 26.186/s).
+[Thu Mar 28 16:08:23 2013] [info] Listening at "http://*:3000".
+[Thu Mar 28 16:08:31 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 16:08:31 2013] [debug] Routing to controller "WISE::Static" and action "home".
+[Thu Mar 28 16:08:31 2013] [debug] Rendering template "static/home.html.ep".
+[Thu Mar 28 16:08:31 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Thu Mar 28 16:08:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 28 16:08:31 2013] [debug] 200 OK (0.037270s, 26.831/s).
+[Thu Mar 28 16:08:55 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 16:08:55 2013] [debug] Routing to controller "WISE::Static" and action "activities".
+[Thu Mar 28 16:08:55 2013] [debug] Rendering template "static/activities.html.ep".
+[Thu Mar 28 16:08:55 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Thu Mar 28 16:08:55 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Thu Mar 28 16:08:55 2013] [debug] 200 OK (0.009117s, 109.685/s).
+[Thu Mar 28 16:08:58 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 16:08:58 2013] [debug] Routing to controller "WISE::Static" and action "findings".
+[Thu Mar 28 16:08:58 2013] [debug] Rendering template "static/findings.html.ep".
+[Thu Mar 28 16:08:58 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Thu Mar 28 16:08:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 28 16:08:58 2013] [debug] 200 OK (0.025507s, 39.205/s).
+[Thu Mar 28 17:05:42 2013] [info] Listening at "http://*:3000".
+[Thu Mar 28 17:05:45 2013] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 17:05:45 2013] [debug] Routing to controller "WISE::Static" and action "home".
+[Thu Mar 28 17:05:45 2013] [debug] Rendering template "static/home.html.ep".
+[Thu Mar 28 17:05:45 2013] [debug] Rendering template "partials/home_head.html.ep".
+[Thu Mar 28 17:05:45 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 28 17:05:45 2013] [debug] 200 OK (0.362592s, 2.758/s).
+[Thu Mar 28 17:05:45 2013] [debug] GET /ico/favicon.png (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 17:05:45 2013] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar 28 17:05:45 2013] [debug] Template "not_found.html.ep" not found.
+[Thu Mar 28 17:05:45 2013] [debug] Rendering inline template.
+[Thu Mar 28 17:05:45 2013] [debug] Rendering inline template.
+[Thu Mar 28 17:05:45 2013] [debug] 404 Not Found (0.016057s, 62.278/s).
+[Thu Mar 28 17:05:51 2013] [debug] GET /activities (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 17:05:51 2013] [debug] Routing to controller "WISE::Static" and action "activities".
+[Thu Mar 28 17:05:51 2013] [debug] Rendering template "static/activities.html.ep".
+[Thu Mar 28 17:05:51 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Thu Mar 28 17:05:51 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Thu Mar 28 17:05:51 2013] [debug] 200 OK (0.008108s, 123.335/s).
+[Thu Mar 28 17:05:55 2013] [debug] GET /findings (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Thu Mar 28 17:05:55 2013] [debug] Routing to controller "WISE::Static" and action "findings".
+[Thu Mar 28 17:05:55 2013] [debug] Rendering template "static/findings.html.ep".
+[Thu Mar 28 17:05:55 2013] [debug] Rendering template "partials/activities_head.html.ep".
+[Thu Mar 28 17:05:55 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar 28 17:05:55 2013] [debug] 200 OK (0.017601s, 56.815/s).
